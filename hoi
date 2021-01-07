@@ -1,0 +1,9 @@
+git init
+git add <ecohosting-main>
+git commit -m "Your message about the commit"
+git remote add origin https://github.com/websoft-stack/runners.git
+git push -u origin master
+git push origin master
+
+
+
